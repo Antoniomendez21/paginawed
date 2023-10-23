@@ -1,0 +1,123 @@
+
+
+body {
+    background-color:#E3D0B7	;
+    display: flex;
+    justify-content: center;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 16px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
+
+
+div#PL {
+    .myButton {
+        color: rgb(231, 225, 217); font-size: 16px; line-height: 16px; padding: 8px; border-radius: 8px; font-family: "Lucida Console", Monaco, monospace; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(28, 110, 164) 0%, rgb(35, 136, 203) 50%, rgb(20, 78, 117) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: none; display: inline-block;}
+        .myButton:hover {
+        background: #1C6EA4; }
+        .myButton:active {
+        background: #144E75; }
+}
+
+
+
+div.father {
+    max-width: 75%;
+    padding: 20px;
+    background: #9E8769;
+background: -moz-linear-gradient(-45deg, #9E8769 0%, #D8BD9A 24%, #B89E7B 100%);
+background: -webkit-linear-gradient(-45deg, #9E8769 0%, #D8BD9A 24%, #B89E7B 100%);
+background: linear-gradient(135deg, #9E8769 0%, #D8BD9A 24%, #B89E7B 100%);
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+  text-justify: inter-word;
+}
+
+
+
+
+    
+
+div#titulo {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 150%;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+background: #CFBB9C;
+border: 7px outset #A99A86;
+border-radius: 10px;
+}
+
+
+
+div#PIN {
+    background-color: #9B9E69;
+    border-radius: 10px;
+    padding: 20px;
+    border: 2px double #74774F;
+}
+
+
+
+div#CMN {
+    display:grid;
+    grid-template-columns: 50% 50%;
+}
+div#PN {
+    display:grid;
+    grid-template-columns: 50% 50%;
+}
+div#DN {
+    display:grid;
+    grid-template-columns: 50% 50%; 
+}
+div#GN {
+    display:grid;
+    grid-template-columns: 50% 50%;
+}
+
+    
+
+div#cuadromonet img{
+    width: 95%;
+    border: 2px solid #000000;
+    border-radius: 3px;
+}
+div#cuadroPAR img{
+    width: 95%;
+    border: 2px solid #000000;
+    border-radius: 3px;
+}
+div#cuadroED img{
+    width: 95%;
+    border: 2px solid #000000;
+    border-radius: 3px;
+}
+div#VVGcuadro img{
+    width: 95%;
+    border: 2px solid #000000;
+    border-radius: 3px;
+}
+div#I img{
+    width: 100%;
+    border: 2px solid #000000;
+    border-radius: 3px;
+}
+
+
